@@ -5,3 +5,5 @@ md = mark down
 뭐라고
 
 Visual Studio Code 시작하기
+
+## git 강의 복습
