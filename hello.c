@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    printf("Hello 압둘알리...");
+    printf("Hello 키텔ㅇㅇ 사랑...");
     printf("kill");
     return 0; 
 }
